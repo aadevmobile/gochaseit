@@ -3,6 +3,6 @@ prefix=/home/workspace/goChaseIt/catkin_ws/devel
 Name: ball_chaser
 Description: Description of ball_chaser
 Version: 0.0.0
-Cflags: 
+Cflags: -I/home/workspace/goChaseIt/catkin_ws/devel/include
 Libs: -L${prefix}/lib 
 Requires: 
