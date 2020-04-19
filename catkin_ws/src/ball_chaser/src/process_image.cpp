@@ -2,6 +2,8 @@
 #include "ball_chaser/DriveToTarget.h"
 #include <sensor_msgs/Image.h>
 #include <cmath>
+//#include <cv_bridge/cv_bridge.h>
+
 
 // Define a global client that can request services
 ros::ServiceClient client;
