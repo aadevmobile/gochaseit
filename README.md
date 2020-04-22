@@ -1,3 +1,4 @@
 # gochaseit
 This Repo is part of my Robotics Engineer Course in Udacity.
-go chase it project is the second project and the objective is to chase a white ball
+
+This is the second project of the course and the idea is to apply the accquired knowledge by making a simulated robot follow a white ball. It uses ROS, Gazebo and Xacro URDF files in order to achieve it.
